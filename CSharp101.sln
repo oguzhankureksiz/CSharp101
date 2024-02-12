@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{BC17CEDC-8074-4AC0-AC40-74AFC5F64A57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{0B5AC7D8-C65B-4899-A088-3D55B237F749}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BC17CEDC-8074-4AC0-AC40-74AFC5F64A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC17CEDC-8074-4AC0-AC40-74AFC5F64A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC17CEDC-8074-4AC0-AC40-74AFC5F64A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
