@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{0B5AC7D8-C65B-4899-A088-3D55B237F749}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosulluYapilar", "KosulluYapilar\KosulluYapilar.csproj", "{588673DD-4F9A-445E-A89D-1155C3D893C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B5AC7D8-C65B-4899-A088-3D55B237F749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588673DD-4F9A-445E-A89D-1155C3D893C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588673DD-4F9A-445E-A89D-1155C3D893C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588673DD-4F9A-445E-A89D-1155C3D893C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588673DD-4F9A-445E-A89D-1155C3D893C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
