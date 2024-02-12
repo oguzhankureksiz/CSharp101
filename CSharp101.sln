@@ -7,19 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{5A9D8D0D-0821-4877-9723-BCCAF5C4B03D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{BC17CEDC-8074-4AC0-AC40-74AFC5F64A57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{BC17CEDC-8074-4AC0-AC40-74AFC5F64A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{0B5AC7D8-C65B-4899-A088-3D55B237F749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{0B5AC7D8-C65B-4899-A088-3D55B237F749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosulluYapilar", "KosulluYapilar\KosulluYapilar.csproj", "{588673DD-4F9A-445E-A89D-1155C3D893C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KosulluYapilar", "KosulluYapilar\KosulluYapilar.csproj", "{588673DD-4F9A-445E-A89D-1155C3D893C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosulluYapilar2", "KosulluYapilar2\KosulluYapilar2.csproj", "{A2B4AD5E-E0DF-4707-B1E7-4543B3E41336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KosulluYapilar2", "KosulluYapilar2\KosulluYapilar2.csproj", "{A2B4AD5E-E0DF-4707-B1E7-4543B3E41336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{0ACE2898-1666-46B1-8C2E-1E5A72C78CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{0ACE2898-1666-46B1-8C2E-1E5A72C78CE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler2", "Donguler2\Donguler2.csproj", "{67BBE599-1440-46CF-882A-0E3FE2A8A7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler2", "Donguler2\Donguler2.csproj", "{67BBE599-1440-46CF-882A-0E3FE2A8A7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{B7FF4486-A83C-4B20-A6C3-93CF3C62034F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{B7FF4486-A83C-4B20-A6C3-93CF3C62034F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziMetotlari", "DiziMetotlari\DiziMetotlari.csproj", "{775B2EF3-6B35-4571-9B5B-6E58418A17FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B7FF4486-A83C-4B20-A6C3-93CF3C62034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7FF4486-A83C-4B20-A6C3-93CF3C62034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7FF4486-A83C-4B20-A6C3-93CF3C62034F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775B2EF3-6B35-4571-9B5B-6E58418A17FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775B2EF3-6B35-4571-9B5B-6E58418A17FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775B2EF3-6B35-4571-9B5B-6E58418A17FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775B2EF3-6B35-4571-9B5B-6E58418A17FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
