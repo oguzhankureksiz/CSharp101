@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtensionMetotlar"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev1", "Odev1\Odev1.csproj", "{AE1EF71F-1866-4207-B1EB-676D3AD2E35C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHazirMetotlar", "StringHazirMetotlar\StringHazirMetotlar.csproj", "{EF728C19-5A96-498A-8E99-A588FAB234EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringHazirMetotlar", "StringHazirMetotlar\StringHazirMetotlar.csproj", "{EF728C19-5A96-498A-8E99-A588FAB234EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeMathHazirMetotlar", "DateTimeMathHazirMetotlar\DateTimeMathHazirMetotlar.csproj", "{69D21C63-D1C2-447F-8DD2-AA88DDBB1F5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{EF728C19-5A96-498A-8E99-A588FAB234EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF728C19-5A96-498A-8E99-A588FAB234EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF728C19-5A96-498A-8E99-A588FAB234EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D21C63-D1C2-447F-8DD2-AA88DDBB1F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D21C63-D1C2-447F-8DD2-AA88DDBB1F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D21C63-D1C2-447F-8DD2-AA88DDBB1F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D21C63-D1C2-447F-8DD2-AA88DDBB1F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
